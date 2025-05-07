@@ -140,9 +140,7 @@ Market segmentation is dividing potential customers into smaller groups based on
 
   * **Consumer goods** (used by individuals)
   * **Industrial goods** (used in businesses/production)
-
 ---
-
 ### 6.  **STEPS IN PRODUCT POSITIONING**
 
 #### Step 1: Identify Positioning Concept
